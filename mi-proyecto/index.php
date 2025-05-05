@@ -12,7 +12,10 @@
     <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-    <h3>Bienvenido a AutoVenta</h3>
+    <h3>AutoVenta</h3>
     <p><a href="productos.php">Ver coches disponibles</a></p>
+    <br>
+    <br>
+    <p><a href="probar.php">Ver prueba</a></p>
 </body>
 </html>
